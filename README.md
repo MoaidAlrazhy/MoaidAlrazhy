@@ -4,7 +4,6 @@
 <p align="center">  
   <img style="border-radius:50%" src="https://github.com/MoaidAlrazhy/MoaidAlrazhy/blob/main/tenor.gif?raw=true" alt="Code"/>
 </p>
-  <a href="url"><img src="https://desmond75.github.io/img/IMG_20171214_095012.jpg" height="auto" width="200" style="border-radius:50%"></a>
 
 <!--
 **MoaidAlrazhy/MoaidAlrazhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
