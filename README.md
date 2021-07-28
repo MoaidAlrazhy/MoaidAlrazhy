@@ -1,7 +1,6 @@
-### Hi there Let's Code !👋
-###<p align="center">  
+<h2 align="center">  
  Hi there Let's Code !👋
-</p>
+</h2>
 <p align="center">  
   <img src="https://github.com/MoaidAlrazhy/MoaidAlrazhy/blob/main/tenor.gif?raw=true" alt="Code"/>
 </p>
