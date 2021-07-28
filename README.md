@@ -2,7 +2,7 @@
  Hey there, Let's Code !👋
 </h2>
 <p align="center">  
-  <img src="https://github.com/MoaidAlrazhy/MoaidAlrazhy/blob/main/tenor.gif?raw=true" alt="Code"/>
+  <img style="border-radius:50%" src="https://github.com/MoaidAlrazhy/MoaidAlrazhy/blob/main/tenor.gif?raw=true" alt="Code"/>
 </p>
 
 <!--
