@@ -1,9 +1,9 @@
 <h2 align="center">  
  Hey there, Let's Code !👋
 </h2>
-<div style="text-align:center">  
+<p align="center">  
   <img style="border-radius:50%" src="https://github.com/MoaidAlrazhy/MoaidAlrazhy/blob/main/tenor.gif?raw=true" alt="Code"/>
-</div>
+</p>
 
 <!--
 **MoaidAlrazhy/MoaidAlrazhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
