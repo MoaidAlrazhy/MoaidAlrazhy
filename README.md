@@ -5,8 +5,7 @@
   <img style="border-radius:50%" src="https://github.com/MoaidAlrazhy/MoaidAlrazhy/blob/main/tenor.gif?raw=true" alt="Code"/>
 </p>
 
-Too lazy to write about myself. Here are some stats for now.
-
+ 
 
 <!--
 **MoaidAlrazhy/MoaidAlrazhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
