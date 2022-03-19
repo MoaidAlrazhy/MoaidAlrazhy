@@ -5,6 +5,15 @@
   <img style="border-radius:50%" src="https://github.com/MoaidAlrazhy/MoaidAlrazhy/blob/main/tenor.gif?raw=true" alt="Code"/>
 </p>
 
+Too lazy to write about myself. Here are some stats for now.
+
+<a href="https://atiq.dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoaidAlrazhy&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://atiq.dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoaidAlrazhy&layout=compact&langs_count=8&theme=radical" />
+</a>
+
 <!--
 **MoaidAlrazhy/MoaidAlrazhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
