@@ -7,9 +7,6 @@
 
 Too lazy to write about myself. Here are some stats for now.
 
- 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoaidAlrazhy&count_private=true&show_icons=true&theme=radical" />
- 
 
 <!--
 **MoaidAlrazhy/MoaidAlrazhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
